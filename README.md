@@ -134,6 +134,12 @@ An augmented reality project to promote IndiaNite through immersive, interactive
 ### **18. Project Demo**
 **Live Link**: [WebAR link](https://mywebar.com/p/Project_1_nkoi5qc68v).
 
+**Live Link**:
+![bharatanatyam](https://github.com/user-attachments/assets/b5e0b021-5b85-4c63-9f03-b35cc7af7939)
+![dance](https://github.com/user-attachments/assets/41346963-d23e-4298-89bf-c78ada5124f7)
+![innovative](https://github.com/user-attachments/assets/5c02ac1b-85fd-4ca2-8aaa-e0c33eb6acb6)
+![traditional](https://github.com/user-attachments/assets/b82d1ead-f57f-41f2-8e19-d3770cc7726b)
+
 ### **Note to Viewers**
 All four images lead to the same AR experience link. Please keep this in mind to set appropriate expectations.
 
